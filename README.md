@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![](https://raw.githubusercontent.com/baratihd/MyStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/baratihd/MyStats/master/generated/languages.svg#gh-dark-mode-only)
 <!--
 **baratihd/baratihd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
